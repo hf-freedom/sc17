@@ -1,0 +1,10 @@
+server:
+  port: 8003
+
+spring:
+  application:
+    name: attendance-system
+
+logging:
+  level:
+    com.attendance: DEBUG
